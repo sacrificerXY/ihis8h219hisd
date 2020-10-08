@@ -19,7 +19,6 @@ class SimilarViewSet(mixins.ListModelMixin):
     # calculate similarity score for each
     # sort (plus filter top X similar if necessary)
     # return (and format) results
-    # return results
 ```
 
 I search lang about custom filtering/sorting sa DRF
